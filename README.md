@@ -3,7 +3,7 @@
 
 O teste busca entender o seu processo de resolução de problemas, e entendimento dos dados disponibilizados, dando espaço para você demonstrar seus conhecimentos de Data Science e Machine Learning.
 
-Os dados disponibilizados são de sobre imóveis da Lopes e seu respectivo preço, as features disponibilizadas representam as características de cada imóvel.
+Os dados disponibilizados são de sobre imóveis e seu respectivo preço, as features disponibilizadas representam as características de cada imóvel.
 
 ### Objetivo
 O objetivo é que o candidado **faça uma breve análise dos dados**, da forma que achar melhor, e **desenvolva um modelo de precificação (regressão)** utilizando como target/variável dependente a coluna `sale`. A função custo a se minimizar é sugerido o **RMSE**, porém caso queira utilizar outra função **justifique**.
@@ -18,7 +18,7 @@ Os dados fornecidos estão dentro do diretório `/data` e contém dois arquivos 
 Aproveite as capacidades do Jupyter Notebook de utilizar markdowns e comentários para documentar sua linha de pensamento.
 
 ### Formato do arquivo de predições
-Após o treinamento e ajuste do modelo, as inferências deverão ser feitas com o arquivo `test.csv` o qual contém todas colunas do arquivo `train.csv` exceto a **target**. O arquivo final deverá conter somente 2 colunas, `sku` e `predict` conforme o exemplo abaixo, e salvo em formato `.csv` e com o nome `output.csv`
+Após o treinamento e ajuste do modelo, as inferências deverão ser feitas com o arquivo `test.csv` o qual contém todas as colunas do arquivo `train.csv` exceto a **target**. O arquivo final deverá conter somente 2 colunas, `sku` e `predict` conforme o exemplo abaixo, e salvo em formato `.csv` e com o nome `output.csv`
 
 | sku | predict |
 |---|---|
@@ -29,7 +29,7 @@ Após o treinamento e ajuste do modelo, as inferências deverão ser feitas com 
 
 ### Entregável
 
-Os arquivos finais a serem entregues é o notebook `train.ipynb`, o arquivo de `requirements.txt` com as libraries utilizadas e as predicts do modelo desenvolvido dentro do arquivo `output.csv`.
+Os arquivos finais a serem entregues é o notebook `train.ipynb` e o arquivo de `requirements.txt` com as libraries utilizadas junto com as predicts do modelo desenvolvido dentro do arquivo `output.csv`.
 Zipar em um arquivo `<nome_do_candidato>.zip` e enviar para o RH da Lopes.
 
 
