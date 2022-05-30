@@ -3,7 +3,7 @@
 
 O teste busca entender o seu processo de resolução de problemas, e entendimento dos dados disponibilizados, dando espaço para você demonstrar seus conhecimentos de Data Science e Machine Learning.
 
-Os dados disponibilizados são de sobre imóveis e seu respectivo preço, as features disponibilizadas representam as características de cada imóvel.
+Os dados disponibilizados são sobre imóveis e seu respectivo preço, as features disponibilizadas representam as características de cada imóvel.
 
 ### Objetivo
 O objetivo é que o candidado **faça uma breve análise dos dados**, da forma que achar melhor, e **desenvolva um modelo de precificação (regressão)** utilizando como target/variável dependente a coluna `sale`. A função custo a se minimizar é sugerido o **RMSE**, porém caso queira utilizar outra função **justifique**.
