@@ -13,7 +13,7 @@ Sugerimos que o código desenvolvido tenha todos os comentários necessários pa
 Desenvolver todas as analises e treinamentos dentro do notebook `train.ipynb`!
 
 ### Dados
-Os dados fornecidos estão dentro do diretório `/data` e contém dois arquivos `train.csv` e `test.csv`. A coluna `sku` identifica o imóvel, e as demais colunas as características do mesmo. A coluna `sale` é a target, que significa o valor daquele imóvel.
+Os dados fornecidos estão são os dois arquivos `train.csv` e `test.csv`. A coluna `sku` identifica o imóvel, e as demais colunas as características do mesmo. A coluna `sale` é a target, que significa o valor daquele imóvel.
 ### Recomendações
 Aproveite as capacidades do Jupyter Notebook de utilizar markdowns e comentários para documentar sua linha de pensamento.
 
