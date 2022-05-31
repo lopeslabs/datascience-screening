@@ -10,6 +10,8 @@ __pycache__/
 *.DS_Store
 ./data/test_original.csv
 ./data/raw.csv
+data/
 evaluate/
+submissions/
 preprocessing.ipynb
 .ipynb_checkpoints/
